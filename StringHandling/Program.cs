@@ -32,8 +32,12 @@ namespace StringHandling
 
             //Spilttingstring spilttingstring = new Spilttingstring();
             //spilttingstring.spilt();
-             TrimString trimString = new TrimString();
-            trimString.trim();
+
+            // TrimString trimString = new TrimString();
+            //trimString.trim();
+
+            ReplaceString replaceString= new ReplaceString();
+            replaceString.Replacing();
 
             Console.ReadLine();
 
